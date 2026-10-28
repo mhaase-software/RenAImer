@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Dokumente, Scans und Fotos automatisch umbenennen.</strong><br>
-  Gratis für Windows · Version 4.10 · von <a href="https://mhaase.ch">mhaase software</a>
+  Gratis für Windows · Deutsch und Englisch · Version 5.3 · von <a href="https://mhaase.ch">mhaase software</a>
 </p>
 
 <p align="center">
@@ -38,6 +38,7 @@ RenAImer liest Briefe, PDFs, Fotos und Office-Dateien, erkennt **Datum, Absender
 - **Vorschau und Kontrolle** – jeden Vorschlag prüfen und bei Bedarf per Doppelklick ändern, bevor etwas passiert.
 - **Rückgängig und Protokoll** – `Ctrl+Z` holt Dateien mit altem Namen zurück. Jede Verschiebung steht im Protokoll.
 - **Nichts wird überschrieben** – gibt es den Namen schon, kommt `_2`, `_3` usw. dazu.
+- **Deutsch und Englisch** – die Oberfläche folgt der Windows-Sprache und lässt sich im ☰ Menü umschalten. Die Dateinamen schreibt RenAImer wie die App, wie das Dokument, auf Deutsch oder auf Englisch.
 - **Drag & Drop**, **Drucken** und **helles oder dunkles Farbschema**.
 
 ## Unterstützte Formate
@@ -58,8 +59,8 @@ Nicht möglich: alte Office-Dateien (DOC, XLS, PPT), Apple Pages/Numbers, ZIP, V
 
 Unter [**Releases**](https://github.com/mhaase-software/RenAImer/releases/latest) oder auf [mhaase.ch/renaimer](https://mhaase.ch/renaimer/#download):
 
-- **RenAImer-Setup-4.10.exe** – empfohlen, installiert RenAImer mit Startmenü-Eintrag
-- **RenAImer-4.10.msi** – für Verteilung per Gruppenrichtlinie oder Softwareverteilung
+- **RenAImer-Setup-5.3.exe** – empfohlen, installiert RenAImer mit Startmenü-Eintrag, fragt nach der Sprache
+- **RenAImer-5.3.msi** – für Verteilung per Gruppenrichtlinie oder Softwareverteilung
 
 RenAImer ist nicht digital signiert. Windows SmartScreen zeigt deshalb beim ersten Start eine Warnung: **Weitere Informationen → Trotzdem ausführen**. Die SHA-256-Prüfsummen stehen bei jedem Release.
 
