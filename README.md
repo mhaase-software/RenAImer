@@ -34,7 +34,7 @@ RenAImer liest Briefe, PDFs, Fotos und Office-Dateien, erkennt **Datum, Absender
 
 - **Datum, Absender, Thema** – das Datum kommt aus dem Dokument selbst, nicht aus dem Änderungsdatum der Datei.
 - **Fotos oder Dokument?** – bei Bildern erkennt die KI selbst, ob es ein abfotografierter Brief oder ein Foto ist.
-- **Stichwörter in der Datei** – Titel, Zusammenfassung und Stichwörter landen in den Datei-Eigenschaften. Die Windows-Suche findet sie.
+- **Stichwörter in der Datei** – Titel, Zusammenfassung und Stichwörter landen in den Datei-Eigenschaften. Bei Word, Excel, PowerPoint und JPG zeigt sie auch der Windows-Explorer.
 - **Vorschau und Kontrolle** – jeden Vorschlag prüfen und bei Bedarf per Doppelklick ändern, bevor etwas passiert.
 - **Rückgängig und Protokoll** – `Ctrl+Z` holt Dateien mit altem Namen zurück. Jede Verschiebung steht im Protokoll.
 - **Nichts wird überschrieben** – gibt es den Namen schon, kommt `_2`, `_3` usw. dazu.
