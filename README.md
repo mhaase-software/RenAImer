@@ -89,6 +89,11 @@ Benenne nur Dokumente um, bei denen das für dich in Ordnung ist.
 - Häufige Fragen: [mhaase.ch/renaimer/#faq](https://mhaase.ch/renaimer/#faq)
 - Fehler gefunden oder eine Idee? [Issue eröffnen](https://github.com/mhaase-software/RenAImer/issues) oder an kontakt@mhaase.ch schreiben.
 
+## Unterstützen
+
+RenAImer ist und bleibt gratis. Wenn dir die App Zeit spart, freue ich mich über einen Kaffee:
+[☕ ko-fi.com/mhaase](https://ko-fi.com/mhaase) · mehr dazu auf [mhaase.ch/unterstuetzen](https://mhaase.ch/unterstuetzen/)
+
 ---
 
 RenAImer ist Freeware. Der Quellcode ist nicht öffentlich.
