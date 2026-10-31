@@ -1,0 +1,4 @@
+# Zeigt den Knopf «Sponsor» oben im GitHub-Repository.
+# Hochladen als Datei .github/FUNDING.yml (mit Punkt vor github).
+ko_fi: mhaase
+custom: ["https://mhaase.ch/unterstuetzen/"]
