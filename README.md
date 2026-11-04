@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Dokumente, Scans und Fotos automatisch umbenennen.</strong><br>
-  Gratis für Windows · Deutsch und Englisch · Version 5.4 · von <a href="https://mhaase.ch">mhaase software</a>
+  Gratis für Windows · Deutsch und Englisch · Version 5.5 · von <a href="https://mhaase.ch">mhaase software</a>
 </p>
 
 <p align="center">
@@ -59,8 +59,8 @@ Nicht möglich: alte Office-Dateien (DOC, XLS, PPT), Apple Pages/Numbers, ZIP, V
 
 Unter [**Releases**](https://github.com/mhaase-software/RenAImer/releases/latest) oder auf [mhaase.ch/renaimer](https://mhaase.ch/renaimer/#download):
 
-- **RenAImer-Setup-5.4.exe** – empfohlen, installiert RenAImer mit Startmenü-Eintrag, fragt nach der Sprache
-- **RenAImer-5.4.msi** – für Verteilung per Gruppenrichtlinie oder Softwareverteilung
+- **RenAImer-Setup-5.5.exe** – empfohlen, installiert RenAImer mit Startmenü-Eintrag, fragt nach der Sprache
+- **RenAImer-5.5.msi** – für Verteilung per Gruppenrichtlinie oder Softwareverteilung
 
 RenAImer ist nicht digital signiert. Windows SmartScreen zeigt deshalb beim ersten Start eine Warnung: **Weitere Informationen → Trotzdem ausführen**. Die SHA-256-Prüfsummen stehen bei jedem Release.
 
